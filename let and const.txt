@@ -1,0 +1,4 @@
+﻿1. Can reassign and redeclare with var but cant redeclare with let.
+2. Cannot reassign or redeclare with const but can using var 
+3. Can reassign with let cannot redeclare or reassign with const
+4. JavaScript behavior where variables and functions are moved to top of there scope before code is run
